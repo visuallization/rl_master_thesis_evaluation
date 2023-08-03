@@ -1,0 +1,65 @@
+{
+    "AirCollector": {
+        "checkpoints": [
+            {
+                "steps": 1499989,
+                "file_path": "results/Air04_default_config_agents_16_workers_8_seed_4_25_min/AirCollector/AirCollector-1499989.onnx",
+                "reward": 13.205233596946,
+                "creation_time": 1690622631.3769848,
+                "auxillary_file_paths": [
+                    "results/Air04_default_config_agents_16_workers_8_seed_4_25_min/AirCollector/AirCollector-1499989.pt"
+                ]
+            },
+            {
+                "steps": 1999994,
+                "file_path": "results/Air04_default_config_agents_16_workers_8_seed_4_25_min/AirCollector/AirCollector-1999994.onnx",
+                "reward": 22.538973892086677,
+                "creation_time": 1690622859.4726348,
+                "auxillary_file_paths": [
+                    "results/Air04_default_config_agents_16_workers_8_seed_4_25_min/AirCollector/AirCollector-1999994.pt"
+                ]
+            },
+            {
+                "steps": 2499989,
+                "file_path": "results/Air04_default_config_agents_16_workers_8_seed_4_25_min/AirCollector/AirCollector-2499989.onnx",
+                "reward": 29.38867699736502,
+                "creation_time": 1690623086.8144493,
+                "auxillary_file_paths": [
+                    "results/Air04_default_config_agents_16_workers_8_seed_4_25_min/AirCollector/AirCollector-2499989.pt"
+                ]
+            },
+            {
+                "steps": 2999974,
+                "file_path": "results/Air04_default_config_agents_16_workers_8_seed_4_25_min/AirCollector/AirCollector-2999974.onnx",
+                "reward": 42.15490220529757,
+                "creation_time": 1690623311.177703,
+                "auxillary_file_paths": [
+                    "results/Air04_default_config_agents_16_workers_8_seed_4_25_min/AirCollector/AirCollector-2999974.pt"
+                ]
+            },
+            {
+                "steps": 3200011,
+                "file_path": "results/Air04_default_config_agents_16_workers_8_seed_4_25_min/AirCollector/AirCollector-3200011.onnx",
+                "reward": 56.92294612129529,
+                "creation_time": 1690623402.4971774,
+                "auxillary_file_paths": [
+                    "results/Air04_default_config_agents_16_workers_8_seed_4_25_min/AirCollector/AirCollector-3200011.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3200011,
+            "file_path": "results/Air04_default_config_agents_16_workers_8_seed_4_25_min/AirCollector.onnx",
+            "reward": 56.92294612129529,
+            "creation_time": 1690623402.4971774,
+            "auxillary_file_paths": [
+                "results/Air04_default_config_agents_16_workers_8_seed_4_25_min/AirCollector/AirCollector-3200011.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.31.0.dev0",
+        "torch_version": "1.13.1+cu117"
+    }
+}
