@@ -1,0 +1,65 @@
+{
+    "AirCollector": {
+        "checkpoints": [
+            {
+                "steps": 1499917,
+                "file_path": "results/Air00_config_shared_agents_16_workers_8_seed_0/AirCollector/AirCollector-1499917.onnx",
+                "reward": 14822.091339111328,
+                "creation_time": 1691251751.3664818,
+                "auxillary_file_paths": [
+                    "results/Air00_config_shared_agents_16_workers_8_seed_0/AirCollector/AirCollector-1499917.pt"
+                ]
+            },
+            {
+                "steps": 1999978,
+                "file_path": "results/Air00_config_shared_agents_16_workers_8_seed_0/AirCollector/AirCollector-1999978.onnx",
+                "reward": 15740.841959635416,
+                "creation_time": 1691252024.0560718,
+                "auxillary_file_paths": [
+                    "results/Air00_config_shared_agents_16_workers_8_seed_0/AirCollector/AirCollector-1999978.pt"
+                ]
+            },
+            {
+                "steps": 2499990,
+                "file_path": "results/Air00_config_shared_agents_16_workers_8_seed_0/AirCollector/AirCollector-2499990.onnx",
+                "reward": 16223.897087097168,
+                "creation_time": 1691252294.420709,
+                "auxillary_file_paths": [
+                    "results/Air00_config_shared_agents_16_workers_8_seed_0/AirCollector/AirCollector-2499990.pt"
+                ]
+            },
+            {
+                "steps": 2999953,
+                "file_path": "results/Air00_config_shared_agents_16_workers_8_seed_0/AirCollector/AirCollector-2999953.onnx",
+                "reward": 16247.565322875977,
+                "creation_time": 1691252565.447573,
+                "auxillary_file_paths": [
+                    "results/Air00_config_shared_agents_16_workers_8_seed_0/AirCollector/AirCollector-2999953.pt"
+                ]
+            },
+            {
+                "steps": 3000081,
+                "file_path": "results/Air00_config_shared_agents_16_workers_8_seed_0/AirCollector/AirCollector-3000081.onnx",
+                "reward": 16247.565322875977,
+                "creation_time": 1691252565.4875104,
+                "auxillary_file_paths": [
+                    "results/Air00_config_shared_agents_16_workers_8_seed_0/AirCollector/AirCollector-3000081.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3000081,
+            "file_path": "results/Air00_config_shared_agents_16_workers_8_seed_0/AirCollector.onnx",
+            "reward": 16247.565322875977,
+            "creation_time": 1691252565.4875104,
+            "auxillary_file_paths": [
+                "results/Air00_config_shared_agents_16_workers_8_seed_0/AirCollector/AirCollector-3000081.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.31.0.dev0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

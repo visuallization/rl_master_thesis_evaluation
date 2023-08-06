@@ -1,0 +1,38 @@
+{
+  "batch_mode": "truncate_episodes",
+  "clip_param": 0.2,
+  "entropy_coeff": 0.005,
+  "entropy_coeff_schedule": null,
+  "env": "godot",
+  "env_config": {
+    "action_repeat": null,
+    "env_path": "/home/florentin/projects/godot/godot_rl_agents_experiments/builds/AirPlatformerPlus_Seed_Env_16/bin/AirPlatformer.x86_64",
+    "framerate": null,
+    "seed": 1,
+    "show_window": false,
+    "speedup": 8
+  },
+  "framework": "torch",
+  "gamma": 0.99,
+  "horizon": 128,
+  "lambda": 0.95,
+  "lr": 0.0003,
+  "model": {
+    "fcnet_hiddens": [
+      128,
+      128
+    ],
+    "framestack": 4,
+    "lstm_cell_size": 32,
+    "use_lstm": false
+  },
+  "no_done_at_end": false,
+  "num_envs_per_worker": 2,
+  "num_gpus": 1,
+  "num_sgd_iter": 3,
+  "num_workers": 8,
+  "sgd_minibatch_size": 128,
+  "soft_horizon": false,
+  "train_batch_size": 16384,
+  "vf_clip_param": 10000.0
+}
